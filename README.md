@@ -1,6 +1,6 @@
 # uchicago-scraper
 
-This project includes two to scrape course data from the University of Chicago course catalog (classes.uchicago.edu).
+This project includes two scripts to scrape course data from the University of Chicago course catalog (classes.uchicago.edu).
 These scripts are designed to be used in a Django project, using the model Course to represent the course data in the project database.
 Note that they are set up as Django management commands
 ##scrapeclasses
